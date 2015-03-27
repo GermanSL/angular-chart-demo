@@ -1,0 +1,97 @@
+[
+    { 
+        "month": "Jan", 
+        "revenew": 20,
+        "details": [ 
+                    { "sell_date": "01/25/2015", "item": "Item 1", "sell_amount": 5 },
+                    { "sell_date": "01/26/2015", "item": "Item 2", "sell_amount": 10 },
+                    { "sell_date": "01/27/2015", "item": "Item 3", "sell_amount": 5 } 
+                   ]
+    },
+    { 
+        "month": "Feb", 
+        "revenew": 90,
+        "details": [ 
+                    { "sell_date": "02/25/2015", "item": "Item 4", "sell_amount": 90 }
+                   ]
+    },
+    { 
+        "month": "Mar", 
+        "revenew": 30,
+        "details": [ 
+                    { "sell_date": "03/21/2015", "item": "Item 5", "sell_amount": 15 },
+                    { "sell_date": "03/24/2015", "item": "Item 6", "sell_amount": 10 },
+                    { "sell_date": "03/27/2015", "item": "Item 7", "sell_amount": 5 } 
+                   ]
+    },
+    { 
+        "month": "Apr",
+        "revenew": 80,
+        "details": [ 
+                    { "sell_date": "04/23/2015", "item": "Item 8", "sell_amount": 75 },
+                    { "sell_date": "04/23/2015", "item": "Item 3", "sell_amount": 5 }
+                   ]
+    },
+    { 
+        "month": "May", 
+        "revenew": 50,
+        "details": [ 
+                    { "sell_date": "05/10/2015", "item": "Item 10", "sell_amount": 50 }
+                   ]
+    },
+    { 
+        "month": "Jun", 
+        "revenew": 30,
+        "details": [ 
+                    { "sell_date": "06/15/2015", "item": "Item 9", "sell_amount": 30 }
+                   ]
+    },
+    { 
+        "month": "Jul", 
+        "revenew": 100,
+        "details": [ 
+                    { "sell_date": "07/12/2015", "item": "Item 11", "sell_amount": 50 },
+                    { "sell_date": "07/25/2015", "item": "Item 12", "sell_amount": 50 }
+                   ]
+    },
+    { 
+        "month": "Aug", 
+        "revenew": 60,
+        "details": [ 
+                    { "sell_date": "08/25/2015", "item": "Item 12", "sell_amount": 50 },
+                    { "sell_date": "08/10/2015", "item": "Item 7", "sell_amount": 5 },
+                    { "sell_date": "08/27/2015", "item": "Item 3", "sell_amount": 5 } 
+                   ]
+    },
+    { 
+        "month": "Sep", 
+        "revenew": 90,
+        "details": [ 
+                    { "sell_date": "09/25/2015", "item": "Item 15", "sell_amount": 90 }
+                   ]
+    },
+    { 
+        "month": "Oct", 
+        "revenew": 40,
+        "details": [ 
+                    { "sell_date": "10/12/2015", "item": "Item 16", "sell_amount": 20 },
+                    { "sell_date": "10/13/2015", "item": "Item 17", "sell_amount": 20 }
+                   ]
+    },
+    { 
+        "month": "Nov", 
+        "revenew": 20,
+        "details": [ 
+                    { "sell_date": "11/22/2015", "item": "Item 16", "sell_amount": 20 }
+                   ]
+    },
+    { 
+        "month": "Dec", 
+        "revenew": 100,
+        "details": [ 
+                    { "sell_date": "12/24/2015", "item": "Item 16", "sell_amount": 20 },
+                    { "sell_date": "12/25/2015", "item": "Item 12", "sell_amount": 50 },
+                    { "sell_date": "12/30/2015", "item": "Item 9", "sell_amount": 30 } 
+                   ]
+    }
+]

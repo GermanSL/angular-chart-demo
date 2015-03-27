@@ -24,7 +24,7 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
-      .when('/bar_details/:id', {
+      .when('/bar_details/', {
         templateUrl: 'views/details.html',
         controller: 'DetailsCtrl'
       })
